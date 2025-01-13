@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 917fc2fa921aaf548b44652ea855f7e4, type: 3}
+  m_Name: Monster 81
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 8898566659909274713, guid: 12df7e1d6e59b664ab788e8bd58e7501, type: 3}
+  monsterID: 0901
+  monsterName: Malkor
